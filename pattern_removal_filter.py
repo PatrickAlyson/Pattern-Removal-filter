@@ -12,7 +12,7 @@
     References
     ----------
     ..[1] CANNON, M.; LEHAR, A.; PRESTON, F. Background pattern removal by power
-          spectral Ąltering. Appl. Opt., Optica Publishing Group, v. 22, n. 6, p. 777Ű779, Mar 1983.
+          spectral Altering. Appl. Opt., Optica Publishing Group, v. 22, n. 6, p. 777-779, Mar 1983.
           http://opg.optica.org/ao/abstract.cfm?URI=ao-22-6-777
 """
 
